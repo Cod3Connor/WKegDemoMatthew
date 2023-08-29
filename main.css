@@ -1,0 +1,21 @@
+nav{
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+    width: 96.5%;
+    padding: 1em;
+    z-index: 0;
+}
+ul{
+    list-style: none;
+    text-align: right;
+}
+li{
+    display: inline-block;
+}
+h1{
+    position: fixed;
+}
+div{
+    margin-top: 3em;
+}
