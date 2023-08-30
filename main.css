@@ -4,6 +4,7 @@ nav{
     color: aliceblue;
     width: 96.5%;
     padding: 1em;
+    margin-top: -5em;
 }
 ul{
     list-style: none;
@@ -15,6 +16,9 @@ li{
 h1{
     position: fixed;
 }
-div{
-    margin-top: 3em;
+#first{
+    margin-top: 5em;
+}
+input [type=button]{
+    all: unset;
 }
