@@ -15,10 +15,16 @@ li{
 }
 h1{
     position: fixed;
+    font-size: 3em;
+    margin-top: -.2em;
 }
 #first{
     margin-top: 5em;
 }
-input [type=button]{
+button{
     all: unset;
+}
+button:focus{
+    border: 1px solid #333;
+    outline: auto;
 }
